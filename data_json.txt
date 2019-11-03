@@ -69,6 +69,7 @@
 {"name":"w71", "thumbUrl":"XiNj1d5.jpg", "url":"8U8pk4E.jpg"},
 {"name":"w72", "thumbUrl":"PI0jjiO.jpg", "url":"wOcMn4p.jpg"},
 {"name":"w73", "thumbUrl":"CBTJ3WA.jpg", "url":"GHaBI7M.jpg"},
+{"name":"w74", "thumbUrl":"icnIYfC.jpg", "url":"bmGEYaO.jpg", "url2":"hugNPRB.png"},
 
 
 {"name":"w66", "thumbUrl":"3iicQPn.jpg", "url":"myxDwuC.jpg"},
