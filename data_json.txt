@@ -93,6 +93,7 @@
 {"name":"w93", "thumbUrl":"BqrPlQX.jpg", "url":"NFkSpie.jpg", "url2":"HDdYkPR.png"},
 {"name":"w94", "thumbUrl":"HHnUiwC.jpg", "url":"i85S6ie.jpg"},
 {"name":"w95", "thumbUrl":"JHXAPxr.jpg", "url":"uX7KJZn.jpg"},
+{"name":"w96", "thumbUrl":"w4Y4Q2p.jpg", "url":"4m03JAV.jpg", "url2":"GaoLXNM.png"},
 
 {"name":"w78", "thumbUrl":"5ZIzRjL.jpg", "url":"I4zH1dU.jpg", "url2":"uESAloy.png"},
 {"name":"w76", "thumbUrl":"7ugLJzd.jpg", "url":"baXa5HL.jpg", "url2":"4kKXSfR.png"},
