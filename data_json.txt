@@ -102,6 +102,8 @@
 {"name":"w102", "thumbUrl":"aWpNgBe.jpg", "url":"8ZP85kg.jpg", "url2":"5HXeO3I.png"},
 {"name":"w103", "thumbUrl":"l855uYF.jpg", "url":"5xNj6A6.jpg", "url2":"KSOu9Lr.png"},
 {"name":"w104", "thumbUrl":"57QOQP8.jpg", "url":"cDhY9RF.jpg", "url2":"oIqOhH5.png"},
+{"name":"w105", "thumbUrl":"adebcrP.jpg", "url":"g5TqfLi.jpg"},
+{"name":"w106", "thumbUrl":"XNkUmTA.jpg", "url":"4g9GUYY.jpg", "url2":"zM1kPix.png"},
 
 {"name":"w78", "thumbUrl":"5ZIzRjL.jpg", "url":"I4zH1dU.jpg", "url2":"uESAloy.png"},
 {"name":"w76", "thumbUrl":"7ugLJzd.jpg", "url":"baXa5HL.jpg", "url2":"4kKXSfR.png"},
